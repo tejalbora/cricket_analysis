@@ -1,0 +1,61 @@
+Match,City,Season,Team1,Team2,WinningTeam,WonBy,Margin
+Final,Ahmedabad,2022,Gujarat Titans,Rajasthan Royals,Gujarat Titans,Wickets,7
+Qualifier 2,Ahmedabad,2022,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,Wickets,7
+Eliminator,Kolkata,2022,Lucknow Super Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,Runs,14
+Qualifier 1,Kolkata,2022,Gujarat Titans,Rajasthan Royals,Gujarat Titans,Wickets,7
+Final,Dubai,2021,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Runs,27
+Qualifier 2,Sharjah,2021,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,Wickets,3
+Eliminator,Sharjah,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Wickets,4
+Qualifier 1,Dubai,2021,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,Wickets,4
+Final,Dubai,2020,Mumbai Indians,Delhi Capitals,Mumbai Indians,Wickets,5
+Qualifier 2,Abu Dhabi,2020,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Runs,17
+Eliminator,Abu Dhabi,2020,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,Wickets,6
+Qualifier 1,Dubai,2020,Mumbai Indians,Delhi Capitals,Mumbai Indians,Runs,57
+Final,Hyderabad,2019,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Runs,1
+Qualifier 2,Visakhapatnam,2019,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,Wickets,6
+Eliminator,Visakhapatnam,2019,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Wickets,2
+Qualifier 1,Chennai,2019,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Wickets,6
+Final,Mumbai,2018,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,Wickets,8
+Qualifier 2,Kolkata,2018,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Runs,14
+Eliminator,Kolkata,2018,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,Runs,25
+Qualifier 1,Mumbai,2018,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Wickets,2
+Final,Hyderabad,2017,Rising Pune Supergiant,Mumbai Indians,Mumbai Indians,Runs,1
+Qualifier 2,Bengaluru,2017,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Wickets,6
+Eliminator,Bengaluru,2017,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Wickets,7
+Qualifier 1,Mumbai,2017,Mumbai Indians,Rising Pune Supergiant,Rising Pune Supergiant,Runs,20
+Final,Bengaluru,2016,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Runs,8
+Qualifier 2,Delhi,2016,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,Wickets,4
+Eliminator,Delhi,2016,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Runs,22
+Qualifier 1,Bengaluru,2016,Gujarat Titans,Royal Challengers Bangalore,Royal Challengers Bangalore,Wickets,4
+Final,Kolkata,2015,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Runs,41
+Qualifier 2,Ranchi,2015,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Wickets,3
+Eliminator,Pune,2015,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Runs,71
+Qualifier 1,Mumbai,2015,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Runs,25
+Final,Bengaluru,2014,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,Wickets,3
+Qualifier 2,Mumbai,2014,Punjab Kings,Chennai Super Kings,Punjab Kings,Runs,24
+Eliminator,Mumbai,2014,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Wickets,7
+Qualifier 1,Kolkata,2014,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,Runs,28
+Final,Kolkata,2013,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Runs,23
+Qualifier 2,Delhi,2013,Rajasthan Royals,Mumbai Indians,Mumbai Indians,Wickets,4
+Eliminator,Delhi,2013,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Wickets,4
+Qualifier 1,Delhi,2013,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Runs,48
+Final,Chennai,2012,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Wickets,5
+Qualifier 2,Chennai,2012,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,Runs,86
+Eliminator,Bengaluru,2012,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Runs,38
+Qualifier 1,Pune,2012,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,Runs,18
+Final,Chennai,2011,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Runs,58
+Qualifier 2,Chennai,2011,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,Runs,43
+Eliminator,Mumbai,2011,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Wickets,4
+Qualifier 1,Mumbai,2011,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Wickets,6
+Final,Mumbai,2010,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Runs,22
+Qualifier 2,Mumbai,2010,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Wickets,9
+Eliminator,Mumbai,2010,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,Runs,38
+Qualifier 1,Mumbai,2010,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Runs,35
+Final,Johannesburg,2009,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Runs,6
+Qualifier 2,Johannesburg,2009,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Wickets,6
+Eliminator,Centurion,2009,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Wickets,6
+Qualifier 1,Centurion,2009,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Runs,6
+Final,Mumbai,2008,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Wickets,3
+Qualifier 2,Mumbai,2008,Chennai Super Kings,Punjab Kings,Chennai Super Kings,Wickets,9
+Eliminator,Mumbai,2008,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,Runs,105
+Qualifier 1,Mohali,2008,Punjab Kings,Rajasthan Royals,Punjab Kings,Runs,41
